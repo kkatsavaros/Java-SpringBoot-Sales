@@ -1,6 +1,7 @@
 Java-SpringBoot-Sales
 
 Database: sales
+Table:Sales
 
 
 In that project i am using Spring Boot Framework to fetch the table sales of the sales database.
